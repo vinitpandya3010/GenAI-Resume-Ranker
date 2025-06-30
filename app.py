@@ -10,7 +10,7 @@ from langchain_core.exceptions import OutputParserException
 # --- Load Environment Variables ---
 # This should be at the top to ensure variables are loaded before they are needed.
 load_dotenv()
-
+#Wassup buds
 # --- Helper Function to Extract Text from PDFs ---
 def get_pdf_text(pdf_docs):
     """
